@@ -1,9 +1,6 @@
 this is a test
 stewart
 stewart
-<<<<<<< HEAD
-=======
 stewart
 stewart
 stewart
->>>>>>> 8c616a57da54c9b0ba8c63bdf96181b7ff9894a3
